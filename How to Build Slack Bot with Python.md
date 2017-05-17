@@ -165,7 +165,7 @@ The script only needs to be run once to get the bot ID. We can now use
 that ID in our Python application that will run StarterBot.
 
 
-## Coding Our StarterBot
+## Coding Our h1bpedia
 We've got everything we need to write the StarterBot code. Create a new file 
 named `h1bpedia.py` and include the following code in it.
 
